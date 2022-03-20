@@ -516,9 +516,6 @@ a {
   background-position: center;
   margin: 10px;
 }
-.card__collection .cards--one {
-  backface-visiblility: hidden;
-}
 .card__collection .cards--one:hover:after {
   bottom: -20px;
 }
