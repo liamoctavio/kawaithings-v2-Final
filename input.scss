@@ -10,15 +10,15 @@ barra {
     border: 3px solid green;
 }
 
-.carousel-item {
-    height: 65vh;
-    min-height: 350px;
-    background: no-repeat center center scroll;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-  }
+// .carousel-item {
+//     height: 65vh;
+//     min-height: 350px;
+//     background: no-repeat center center scroll;
+//     -webkit-background-size: cover;
+//     -moz-background-size: cover;
+//     -o-background-size: cover;
+//     background-size: cover;
+//   }
 
 .navbar{
     background: #ad5389;  /* fallback for old browsers */
@@ -978,3 +978,8 @@ tituloColaboradores{
     
     
 }
+
+.carousel-inner > .carousel-item > img {
+    min-width: 100%;
+    width: 100%;
+  }
