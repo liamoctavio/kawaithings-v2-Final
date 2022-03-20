@@ -867,4 +867,10 @@ tituloColaboradores {
   color: white;
 }
 
+.card-img-top {
+  width: 100%;
+  max-width: 400px;
+  height: auto;
+}
+
 /*# sourceMappingURL=output.css.map */
